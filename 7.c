@@ -9,6 +9,7 @@ void main()
    { c=a%b; a=b;  b=c;}
    printf("最大公约数是 %d\n", a);
    printf("最小公倍数是 %d\n", m*n/a);
+   //branch1
    //return 0;
 }
 
